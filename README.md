@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/avatar.jpg" alt="Parshwa" width="160" height="160" style="border-radius: 50%; border: 3px solid #2E90FA; box-shadow: 0 4px 20px rgba(46, 144, 250, 0.4);" />
+<img src="assets/logo.jpg" alt="Parshwa" width="150" height="150" style="border-radius: 50%; border: 2px solid #00f2fe; box-shadow: 0 0 25px rgba(0, 242, 254, 0.4);" />
 
 # Hi, I'm Parshwa 👋
 ### Software Engineer • Computer Vision & Audio ML • Full-Stack Systems
