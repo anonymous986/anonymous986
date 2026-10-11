@@ -47,5 +47,5 @@
 ## 📬 Contact & Collaboration
 
 - **GitHub Profile**: [@anonymous986](https://github.com/anonymous986)
-- **Direct Email**: [phoneuser72636@gmail.com](mailto:phoneuser72636@gmail.com)
+- **Direct Email**: [thegamer8618@gmail.com](mailto:thegamer8618@gmail.com)
 - **Status**: Open to software engineering roles, high-impact ML/vision opportunities, and open-source contributions.
