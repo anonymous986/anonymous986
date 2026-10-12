@@ -27,10 +27,11 @@
 ## 🛠️ Core Competencies & Tech Stack
 
 ```ascii
-[Core Languages]  Python, C++, TypeScript, JavaScript, SQL, Bash
-[ML & Vision]     PyTorch (CUDA), YOLOv8, Faster-Whisper, Demucs, OpenCV, Scipy DSP
-[Architecture]    DirectShow / V4L2 Video Streaming, Multi-threading, Audio Conditioning
-[Web & Systems]   Node.js, React, Tailwind CSS, Vite, Flask, SQLite, Linux, Git
+[Core Languages]    Python, C++, TypeScript, JavaScript, SQL, Bash
+[Generative AI]     RAG Pipelines, LangChain, LlamaIndex, Vector DBs (Chroma/Pinecone), vLLM, LoRA
+[ML & Vision]       PyTorch (CUDA), YOLOv8/v11, OpenCV, Faster-Whisper, Demucs, ONNX, Scipy DSP
+[Backend & APIs]    FastAPI, Node.js, Express, RESTful APIs, WebSockets, Redis, PostgreSQL
+[Cloud & DevOps]    Docker, Kubernetes, AWS (S3/EC2), GitHub Actions CI/CD, Linux, DirectShow
 ```
 
 ---
